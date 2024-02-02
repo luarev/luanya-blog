@@ -102,3 +102,26 @@
   border-radius: 8px;
   cursor: pointer;
 }
+.not-found h2 {
+  font-size: 40px;
+}
+
+.not-found p {
+  font-size: 20px;
+  margin: 10px 0px 30px;
+}
+
+.not-found {
+  font-size: 20px;
+  color: #ff8bbe;
+  margin-bottom: 20px;
+}
+
+.not-found button {
+  text-decoration: none;
+  font-size: 15px;
+  background: #ff8bbe;
+  border: 0;
+  padding: 10px;
+  border-radius: 8px;
+}
