@@ -31,4 +31,4 @@ A simple Blog with an easy interface for posting and deleting blogs.
    npm run start
    ```
 
-5. Open your browser and go to ```bash http://localhost:3000.```
+5. Open your browser and go to ```http://localhost:3000.```
